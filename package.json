@@ -1,0 +1,25 @@
+{
+  "name": "emitter-lite",
+  "version": "1.13.134",
+  "description": "Eventemitter lite for node.js and browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliezc/emitter-lite.git"
+  },
+  "keywords": [
+    "event",
+    "eventemitter",
+    "emitter",
+    "browser"
+  ],
+  "author": "wallax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliezc/emitter-lite/issues"
+  },
+  "homepage": "https://github.com/aliezc/emitter-lite#readme"
+}
